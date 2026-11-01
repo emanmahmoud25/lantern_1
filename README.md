@@ -1,2 +1,1 @@
-# lantern
-A simple command-line task tracker written in Python
+| B_NAME | Student B |
